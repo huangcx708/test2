@@ -1,6 +1,6 @@
 
 
-//修饰符 
+//修饰符 1111111
 //public name: string;
 //private name: string; 只能在自己类里访问
 //protected name: string; 自己和子女的类都可以访问
